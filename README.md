@@ -11,5 +11,5 @@ calculate_it is a gem to do basic mathematical operations like addition, multipl
 
 * from command line:
   gem install calculate_it
-*from Gemfile
+* from Gemfile
   gem "calculate_it", "~> 0.0.0"
