@@ -5,9 +5,9 @@ by [Rishi Jain](http://github.com/rishijain)
 
 calculate_it is a gem to do basic mathematical operations like addition, multiplication.
 
-How to use it:
+## How to use it:
 
-Installation
+### Installation
 
 * from command line:
   gem install calculate_it
